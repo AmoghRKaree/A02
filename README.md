@@ -1,6 +1,6 @@
 # A02
 ### List Of Definitions
-**Branch** : Branching < br / >
+**Branch** : Branching <br/>
 **Clone** < br / >
 **Commit** < br / >
 **Fetch** < br / >
