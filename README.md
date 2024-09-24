@@ -1,14 +1,14 @@
 # A02
 ### List Of Definitions
-**Branch** : Branching
-**Clone**
-**Commit**
-**Fetch**
-**GIT**
-**Github**
-**Merge**
-**Merge Conflict**
-**Push**
-**Pull**
-**Remote**
-**Repository**
+**Branch** : Branching < br / >
+**Clone** < br / >
+**Commit** < br / >
+**Fetch** < br / >
+**GIT**< br / >
+**Github** < br / >
+**Merge** < br / >
+**Merge Conflict** < br / >
+**Push** < br / >
+**Pull** < br / >
+**Remote** < br / >
+**Repository** < br / >
