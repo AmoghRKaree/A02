@@ -1,6 +1,21 @@
 # A02
 ### _PART 1_ Directions on Using Webstorm
 
+First Step:  Go to either of these websites and download the IDE / code editor.
+https://www.jetbrains.com/webstorm/
+https://code.visualstudio.com/
+
+Second Step: Create a project, select new, make a project name, and select a language by ending with a .py or . java ending
+
+Third Step: Configure Git in Webstorm or VScode, Get to version control and navigate to the Git option. Click test to check if it is executable. Click OK to save to settings.
+
+Fourth Step: Create a File by right clicking on your project directory in the project panel. Name file and code.
+
+Fifth Step: Check that your file is the correct version and add a VCS stage to them and commit changes to the file
+
+Sixth Step: Push Changes to Github so they are stored on a remote cloud.
+
+**Setting Up Git** : You can set up git and download using this link: https://git-scm.com/downloads. Then create a local repository by navigating to our prior projects folder. Then start to create our Github account in order to create our remote repository. Then we can link our local too remote. After than we can commit and post changes in order to upload from our local code editor to our new remote repository.
 
 ### _PART 2_ List Of Definitions
 
